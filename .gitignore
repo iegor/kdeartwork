@@ -1,0 +1,17 @@
+*.Plo
+*.Po
+*.so
+*.lai
+Makefile.in
+Makefile
+*.lo
+*.la
+*.moc
+.libs
+*.o
+autom4te.cache/*
+dbg-x86_64-pc-linux-gnu/
+*~
+tags
+*.moc.cpp
+*.moc.cc
